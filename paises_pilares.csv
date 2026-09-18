@@ -1,0 +1,1135 @@
+﻿SLUG URL,Pillar,Weight,Score,Basis
+usa,Manpower,15%,93.9,"Active, reserve & paramilitary personnel"
+usa,Ground forces,20%,100.0,"Tanks, armor & artillery weighted by type"
+usa,Naval power,20%,97.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+usa,Air power,25%,100.0,Weighted by aircraft type and fleet age
+usa,Nuclear deterrent,10%,98.7,Warhead count with delivery-mode modifiers
+usa,Defense budget,10%,100.0,"Annual spending, purchasing-power adjusted"
+usa,Readiness,modifier,×1.20,"Budget per soldier: proxy for training, maintenance & technology"
+chn,Manpower,15%,98.7,"Active, reserve & paramilitary personnel"
+chn,Ground forces,20%,87.2,"Tanks, armor & artillery weighted by type"
+chn,Naval power,20%,100.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+chn,Air power,25%,90.8,Weighted by aircraft type and fleet age
+chn,Nuclear deterrent,10%,62.8,Warhead count with delivery-mode modifiers
+chn,Defense budget,10%,91.8,"Annual spending, purchasing-power adjusted"
+chn,Readiness,modifier,×1.09,"Budget per soldier: proxy for training, maintenance & technology"
+rus,Manpower,15%,95.5,"Active, reserve & paramilitary personnel"
+rus,Ground forces,20%,82.0,"Tanks, armor & artillery weighted by type"
+rus,Naval power,20%,83.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+rus,Air power,25%,87.2,Weighted by aircraft type and fleet age
+rus,Nuclear deterrent,10%,100.0,Warhead count with delivery-mode modifiers
+rus,Defense budget,10%,89.9,"Annual spending, purchasing-power adjusted"
+rus,Readiness,modifier,×1.09,"Budget per soldier: proxy for training, maintenance & technology"
+ind,Manpower,15%,97.9,"Active, reserve & paramilitary personnel"
+ind,Ground forces,20%,79.5,"Tanks, armor & artillery weighted by type"
+ind,Naval power,20%,74.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ind,Air power,25%,75.5,Weighted by aircraft type and fleet age
+ind,Nuclear deterrent,10%,45.4,Warhead count with delivery-mode modifiers
+ind,Defense budget,10%,84.2,"Annual spending, purchasing-power adjusted"
+ind,Readiness,modifier,×1.02,"Budget per soldier: proxy for training, maintenance & technology"
+fra,Manpower,15%,76.9,"Active, reserve & paramilitary personnel"
+fra,Ground forces,20%,63.8,"Tanks, armor & artillery weighted by type"
+fra,Naval power,20%,66.4,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+fra,Air power,25%,66.5,Weighted by aircraft type and fleet age
+fra,Nuclear deterrent,10%,49.5,Warhead count with delivery-mode modifiers
+fra,Defense budget,10%,71.2,"Annual spending, purchasing-power adjusted"
+fra,Readiness,modifier,×1.13,"Budget per soldier: proxy for training, maintenance & technology"
+kor,Manpower,15%,99.6,"Active, reserve & paramilitary personnel"
+kor,Ground forces,20%,77.4,"Tanks, armor & artillery weighted by type"
+kor,Naval power,20%,71.6,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+kor,Air power,25%,70.6,Weighted by aircraft type and fleet age
+kor,Nuclear deterrent,10%,0.0,No declared nuclear capability
+kor,Defense budget,10%,69.5,"Annual spending, purchasing-power adjusted"
+kor,Readiness,modifier,×1.06,"Budget per soldier: proxy for training, maintenance & technology"
+gbr,Manpower,15%,71.4,"Active, reserve & paramilitary personnel"
+gbr,Ground forces,20%,60.3,"Tanks, armor & artillery weighted by type"
+gbr,Naval power,20%,60.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+gbr,Air power,25%,61.8,Weighted by aircraft type and fleet age
+gbr,Nuclear deterrent,10%,38.2,Warhead count with delivery-mode modifiers
+gbr,Defense budget,10%,74.1,"Annual spending, purchasing-power adjusted"
+gbr,Readiness,modifier,×1.19,"Budget per soldier: proxy for training, maintenance & technology"
+jpn,Manpower,15%,75.6,"Active, reserve & paramilitary personnel"
+jpn,Ground forces,20%,62.4,"Tanks, armor & artillery weighted by type"
+jpn,Naval power,20%,77.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+jpn,Air power,25%,67.1,Weighted by aircraft type and fleet age
+jpn,Nuclear deterrent,10%,0.0,No declared nuclear capability
+jpn,Defense budget,10%,70.5,"Annual spending, purchasing-power adjusted"
+jpn,Readiness,modifier,×1.12,"Budget per soldier: proxy for training, maintenance & technology"
+tur,Manpower,15%,82.9,"Active, reserve & paramilitary personnel"
+tur,Ground forces,20%,75.7,"Tanks, armor & artillery weighted by type"
+tur,Naval power,20%,61.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+tur,Air power,25%,64.4,Weighted by aircraft type and fleet age
+tur,Nuclear deterrent,10%,2.8,No declared nuclear capability
+tur,Defense budget,10%,70.6,"Annual spending, purchasing-power adjusted"
+tur,Readiness,modifier,×1.06,"Budget per soldier: proxy for training, maintenance & technology"
+deu,Manpower,15%,72.4,"Active, reserve & paramilitary personnel"
+deu,Ground forces,20%,60.7,"Tanks, armor & artillery weighted by type"
+deu,Naval power,20%,49.4,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+deu,Air power,25%,63.4,Weighted by aircraft type and fleet age
+deu,Nuclear deterrent,10%,2.5,No declared nuclear capability
+deu,Defense budget,10%,76.7,"Annual spending, purchasing-power adjusted"
+deu,Readiness,modifier,×1.19,"Budget per soldier: proxy for training, maintenance & technology"
+isr,Manpower,15%,79.2,"Active, reserve & paramilitary personnel"
+isr,Ground forces,20%,61.0,"Tanks, armor & artillery weighted by type"
+isr,Naval power,20%,42.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+isr,Air power,25%,61.8,Weighted by aircraft type and fleet age
+isr,Nuclear deterrent,10%,35.6,Warhead count with delivery-mode modifiers
+isr,Defense budget,10%,67.8,"Annual spending, purchasing-power adjusted"
+isr,Readiness,modifier,×1.13,"Budget per soldier: proxy for training, maintenance & technology"
+twn,Manpower,15%,88.2,"Active, reserve & paramilitary personnel"
+twn,Ground forces,20%,66.9,"Tanks, armor & artillery weighted by type"
+twn,Naval power,20%,58.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+twn,Air power,25%,63.4,Weighted by aircraft type and fleet age
+twn,Nuclear deterrent,10%,0.0,No declared nuclear capability
+twn,Defense budget,10%,62.3,"Annual spending, purchasing-power adjusted"
+twn,Readiness,modifier,×1.07,"Budget per soldier: proxy for training, maintenance & technology"
+ita,Manpower,15%,73.5,"Active, reserve & paramilitary personnel"
+ita,Ground forces,20%,57.1,"Tanks, armor & artillery weighted by type"
+ita,Naval power,20%,59.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ita,Air power,25%,63.2,Weighted by aircraft type and fleet age
+ita,Nuclear deterrent,10%,3.7,No declared nuclear capability
+ita,Defense budget,10%,67.8,"Annual spending, purchasing-power adjusted"
+ita,Readiness,modifier,×1.14,"Budget per soldier: proxy for training, maintenance & technology"
+sau,Manpower,15%,75.0,"Active, reserve & paramilitary personnel"
+sau,Ground forces,20%,66.9,"Tanks, armor & artillery weighted by type"
+sau,Naval power,20%,36.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+sau,Air power,25%,67.4,Weighted by aircraft type and fleet age
+sau,Nuclear deterrent,10%,0.0,No declared nuclear capability
+sau,Defense budget,10%,77.6,"Annual spending, purchasing-power adjusted"
+sau,Readiness,modifier,×1.15,"Budget per soldier: proxy for training, maintenance & technology"
+pak,Manpower,15%,88.5,"Active, reserve & paramilitary personnel"
+pak,Ground forces,20%,74.7,"Tanks, armor & artillery weighted by type"
+pak,Naval power,20%,50.8,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+pak,Air power,25%,68.6,Weighted by aircraft type and fleet age
+pak,Nuclear deterrent,10%,39.5,Warhead count with delivery-mode modifiers
+pak,Defense budget,10%,62.5,"Annual spending, purchasing-power adjusted"
+pak,Readiness,modifier,×0.93,"Budget per soldier: proxy for training, maintenance & technology"
+dza,Manpower,15%,74.9,"Active, reserve & paramilitary personnel"
+dza,Ground forces,20%,69.8,"Tanks, armor & artillery weighted by type"
+dza,Naval power,20%,51.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+dza,Air power,25%,58.3,Weighted by aircraft type and fleet age
+dza,Nuclear deterrent,10%,0.0,No declared nuclear capability
+dza,Defense budget,10%,68.2,"Annual spending, purchasing-power adjusted"
+dza,Readiness,modifier,×1.10,"Budget per soldier: proxy for training, maintenance & technology"
+esp,Manpower,15%,69.9,"Active, reserve & paramilitary personnel"
+esp,Ground forces,20%,62.7,"Tanks, armor & artillery weighted by type"
+esp,Naval power,20%,47.6,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+esp,Air power,25%,58.8,Weighted by aircraft type and fleet age
+esp,Nuclear deterrent,10%,0.0,No declared nuclear capability
+esp,Defense budget,10%,64.6,"Annual spending, purchasing-power adjusted"
+esp,Readiness,modifier,×1.14,"Budget per soldier: proxy for training, maintenance & technology"
+aus,Manpower,15%,63.3,"Active, reserve & paramilitary personnel"
+aus,Ground forces,20%,52.8,"Tanks, armor & artillery weighted by type"
+aus,Naval power,20%,50.8,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+aus,Air power,25%,55.3,Weighted by aircraft type and fleet age
+aus,Nuclear deterrent,10%,0.0,No declared nuclear capability
+aus,Defense budget,10%,64.8,"Annual spending, purchasing-power adjusted"
+aus,Readiness,modifier,×1.19,"Budget per soldier: proxy for training, maintenance & technology"
+are,Manpower,15%,68.2,"Active, reserve & paramilitary personnel"
+are,Ground forces,20%,67.2,"Tanks, armor & artillery weighted by type"
+are,Naval power,20%,38.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+are,Air power,25%,56.2,Weighted by aircraft type and fleet age
+are,Nuclear deterrent,10%,0.0,No declared nuclear capability
+are,Defense budget,10%,60.2,"Annual spending, purchasing-power adjusted"
+are,Readiness,modifier,×1.15,"Budget per soldier: proxy for training, maintenance & technology"
+grc,Manpower,15%,75.9,"Active, reserve & paramilitary personnel"
+grc,Ground forces,20%,68.4,"Tanks, armor & artillery weighted by type"
+grc,Naval power,20%,54.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+grc,Air power,25%,59.1,Weighted by aircraft type and fleet age
+grc,Nuclear deterrent,10%,0.0,No declared nuclear capability
+grc,Defense budget,10%,53.1,"Annual spending, purchasing-power adjusted"
+grc,Readiness,modifier,×1.02,"Budget per soldier: proxy for training, maintenance & technology"
+bra,Manpower,15%,89.7,"Active, reserve & paramilitary personnel"
+bra,Ground forces,20%,56.2,"Tanks, armor & artillery weighted by type"
+bra,Naval power,20%,47.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bra,Air power,25%,57.0,Weighted by aircraft type and fleet age
+bra,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bra,Defense budget,10%,67.9,"Annual spending, purchasing-power adjusted"
+bra,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+pol,Manpower,15%,69.9,"Active, reserve & paramilitary personnel"
+pol,Ground forces,20%,65.4,"Tanks, armor & artillery weighted by type"
+pol,Naval power,20%,33.6,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+pol,Air power,25%,51.0,Weighted by aircraft type and fleet age
+pol,Nuclear deterrent,10%,0.0,No declared nuclear capability
+pol,Defense budget,10%,71.8,"Annual spending, purchasing-power adjusted"
+pol,Readiness,modifier,×1.15,"Budget per soldier: proxy for training, maintenance & technology"
+can,Manpower,15%,64.1,"Active, reserve & paramilitary personnel"
+can,Ground forces,20%,52.0,"Tanks, armor & artillery weighted by type"
+can,Naval power,20%,44.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+can,Air power,25%,50.5,Weighted by aircraft type and fleet age
+can,Nuclear deterrent,10%,0.0,No declared nuclear capability
+can,Defense budget,10%,67.2,"Annual spending, purchasing-power adjusted"
+can,Readiness,modifier,×1.20,"Budget per soldier: proxy for training, maintenance & technology"
+sgp,Manpower,15%,71.3,"Active, reserve & paramilitary personnel"
+sgp,Ground forces,20%,58.7,"Tanks, armor & artillery weighted by type"
+sgp,Naval power,20%,45.2,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+sgp,Air power,25%,49.2,Weighted by aircraft type and fleet age
+sgp,Nuclear deterrent,10%,0.0,No declared nuclear capability
+sgp,Defense budget,10%,57.4,"Annual spending, purchasing-power adjusted"
+sgp,Readiness,modifier,×1.15,"Budget per soldier: proxy for training, maintenance & technology"
+ukr,Manpower,15%,92.6,"Active, reserve & paramilitary personnel"
+ukr,Ground forces,20%,68.3,"Tanks, armor & artillery weighted by type"
+ukr,Naval power,20%,21.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ukr,Air power,25%,52.3,Weighted by aircraft type and fleet age
+ukr,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ukr,Defense budget,10%,83.8,"Annual spending, purchasing-power adjusted"
+ukr,Readiness,modifier,×1.06,"Budget per soldier: proxy for training, maintenance & technology"
+vnm,Manpower,15%,99.6,"Active, reserve & paramilitary personnel"
+vnm,Ground forces,20%,70.9,"Tanks, armor & artillery weighted by type"
+vnm,Naval power,20%,53.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+vnm,Air power,25%,44.5,Weighted by aircraft type and fleet age
+vnm,Nuclear deterrent,10%,0.0,No declared nuclear capability
+vnm,Defense budget,10%,62.6,"Annual spending, purchasing-power adjusted"
+vnm,Readiness,modifier,×0.97,"Budget per soldier: proxy for training, maintenance & technology"
+prk,Manpower,15%,100.0,"Active, reserve & paramilitary personnel"
+prk,Ground forces,20%,74.6,"Tanks, armor & artillery weighted by type"
+prk,Naval power,20%,65.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+prk,Air power,25%,67.0,Weighted by aircraft type and fleet age
+prk,Nuclear deterrent,10%,27.6,Warhead count with delivery-mode modifiers
+prk,Defense budget,10%,46.2,"Annual spending, purchasing-power adjusted"
+prk,Readiness,modifier,×0.80,"Budget per soldier: proxy for training, maintenance & technology"
+egy,Manpower,15%,85.9,"Active, reserve & paramilitary personnel"
+egy,Ground forces,20%,73.2,"Tanks, armor & artillery weighted by type"
+egy,Naval power,20%,60.3,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+egy,Air power,25%,69.3,Weighted by aircraft type and fleet age
+egy,Nuclear deterrent,10%,0.0,No declared nuclear capability
+egy,Defense budget,10%,50.9,"Annual spending, purchasing-power adjusted"
+egy,Readiness,modifier,×0.88,"Budget per soldier: proxy for training, maintenance & technology"
+idn,Manpower,15%,84.5,"Active, reserve & paramilitary personnel"
+idn,Ground forces,20%,51.8,"Tanks, armor & artillery weighted by type"
+idn,Naval power,20%,64.4,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+idn,Air power,25%,51.1,Weighted by aircraft type and fleet age
+idn,Nuclear deterrent,10%,0.0,No declared nuclear capability
+idn,Defense budget,10%,62.5,"Annual spending, purchasing-power adjusted"
+idn,Readiness,modifier,×0.98,"Budget per soldier: proxy for training, maintenance & technology"
+irn,Manpower,15%,85.9,"Active, reserve & paramilitary personnel"
+irn,Ground forces,20%,72.4,"Tanks, armor & artillery weighted by type"
+irn,Naval power,20%,40.6,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+irn,Air power,25%,58.2,Weighted by aircraft type and fleet age
+irn,Nuclear deterrent,10%,6.5,No declared nuclear capability
+irn,Defense budget,10%,60.9,"Annual spending, purchasing-power adjusted"
+irn,Readiness,modifier,×0.94,"Budget per soldier: proxy for training, maintenance & technology"
+qat,Manpower,15%,50.9,"Active, reserve & paramilitary personnel"
+qat,Ground forces,20%,47.0,"Tanks, armor & artillery weighted by type"
+qat,Naval power,20%,40.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+qat,Air power,25%,55.8,Weighted by aircraft type and fleet age
+qat,Nuclear deterrent,10%,0.0,No declared nuclear capability
+qat,Defense budget,10%,56.8,"Annual spending, purchasing-power adjusted"
+qat,Readiness,modifier,×1.20,"Budget per soldier: proxy for training, maintenance & technology"
+swe,Manpower,15%,60.1,"Active, reserve & paramilitary personnel"
+swe,Ground forces,20%,45.5,"Tanks, armor & artillery weighted by type"
+swe,Naval power,20%,43.9,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+swe,Air power,25%,50.9,Weighted by aircraft type and fleet age
+swe,Nuclear deterrent,10%,0.0,No declared nuclear capability
+swe,Defense budget,10%,56.6,"Annual spending, purchasing-power adjusted"
+swe,Readiness,modifier,×1.18,"Budget per soldier: proxy for training, maintenance & technology"
+mmr,Manpower,15%,73.4,"Active, reserve & paramilitary personnel"
+mmr,Ground forces,20%,68.7,"Tanks, armor & artillery weighted by type"
+mmr,Naval power,20%,47.9,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mmr,Air power,25%,52.2,Weighted by aircraft type and fleet age
+mmr,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mmr,Defense budget,10%,56.6,"Annual spending, purchasing-power adjusted"
+mmr,Readiness,modifier,×0.97,"Budget per soldier: proxy for training, maintenance & technology"
+nor,Manpower,15%,58.4,"Active, reserve & paramilitary personnel"
+nor,Ground forces,20%,43.8,"Tanks, armor & artillery weighted by type"
+nor,Naval power,20%,45.2,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+nor,Air power,25%,46.7,Weighted by aircraft type and fleet age
+nor,Nuclear deterrent,10%,0.0,No declared nuclear capability
+nor,Defense budget,10%,57.4,"Annual spending, purchasing-power adjusted"
+nor,Readiness,modifier,×1.20,"Budget per soldier: proxy for training, maintenance & technology"
+mex,Manpower,15%,76.0,"Active, reserve & paramilitary personnel"
+mex,Ground forces,20%,62.8,"Tanks, armor & artillery weighted by type"
+mex,Naval power,20%,41.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mex,Air power,25%,42.8,Weighted by aircraft type and fleet age
+mex,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mex,Defense budget,10%,63.8,"Annual spending, purchasing-power adjusted"
+mex,Readiness,modifier,×1.05,"Budget per soldier: proxy for training, maintenance & technology"
+nld,Manpower,15%,57.8,"Active, reserve & paramilitary personnel"
+nld,Ground forces,20%,43.2,"Tanks, armor & artillery weighted by type"
+nld,Naval power,20%,40.8,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+nld,Air power,25%,45.7,Weighted by aircraft type and fleet age
+nld,Nuclear deterrent,10%,2.5,No declared nuclear capability
+nld,Defense budget,10%,63.3,"Annual spending, purchasing-power adjusted"
+nld,Readiness,modifier,×1.20,"Budget per soldier: proxy for training, maintenance & technology"
+fin,Manpower,15%,69.9,"Active, reserve & paramilitary personnel"
+fin,Ground forces,20%,56.7,"Tanks, armor & artillery weighted by type"
+fin,Naval power,20%,32.4,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+fin,Air power,25%,44.2,Weighted by aircraft type and fleet age
+fin,Nuclear deterrent,10%,0.0,No declared nuclear capability
+fin,Defense budget,10%,51.2,"Annual spending, purchasing-power adjusted"
+fin,Readiness,modifier,×1.15,"Budget per soldier: proxy for training, maintenance & technology"
+tha,Manpower,15%,81.3,"Active, reserve & paramilitary personnel"
+tha,Ground forces,20%,58.9,"Tanks, armor & artillery weighted by type"
+tha,Naval power,20%,53.6,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+tha,Air power,25%,52.0,Weighted by aircraft type and fleet age
+tha,Nuclear deterrent,10%,0.0,No declared nuclear capability
+tha,Defense budget,10%,55.0,"Annual spending, purchasing-power adjusted"
+tha,Readiness,modifier,×0.94,"Budget per soldier: proxy for training, maintenance & technology"
+col,Manpower,15%,77.0,"Active, reserve & paramilitary personnel"
+col,Ground forces,20%,46.3,"Tanks, armor & artillery weighted by type"
+col,Naval power,20%,51.3,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+col,Air power,25%,49.1,Weighted by aircraft type and fleet age
+col,Nuclear deterrent,10%,0.0,No declared nuclear capability
+col,Defense budget,10%,56.1,"Annual spending, purchasing-power adjusted"
+col,Readiness,modifier,×1.03,"Budget per soldier: proxy for training, maintenance & technology"
+mar,Manpower,15%,75.8,"Active, reserve & paramilitary personnel"
+mar,Ground forces,20%,66.1,"Tanks, armor & artillery weighted by type"
+mar,Naval power,20%,42.8,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mar,Air power,25%,47.6,Weighted by aircraft type and fleet age
+mar,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mar,Defense budget,10%,48.8,"Annual spending, purchasing-power adjusted"
+mar,Readiness,modifier,×0.99,"Budget per soldier: proxy for training, maintenance & technology"
+kwt,Manpower,15%,55.6,"Active, reserve & paramilitary personnel"
+kwt,Ground forces,20%,57.3,"Tanks, armor & artillery weighted by type"
+kwt,Naval power,20%,32.9,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+kwt,Air power,25%,44.7,Weighted by aircraft type and fleet age
+kwt,Nuclear deterrent,10%,0.0,No declared nuclear capability
+kwt,Defense budget,10%,50.6,"Annual spending, purchasing-power adjusted"
+kwt,Readiness,modifier,×1.17,"Budget per soldier: proxy for training, maintenance & technology"
+dnk,Manpower,15%,56.9,"Active, reserve & paramilitary personnel"
+dnk,Ground forces,20%,42.5,"Tanks, armor & artillery weighted by type"
+dnk,Naval power,20%,39.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+dnk,Air power,25%,44.6,Weighted by aircraft type and fleet age
+dnk,Nuclear deterrent,10%,0.0,No declared nuclear capability
+dnk,Defense budget,10%,55.6,"Annual spending, purchasing-power adjusted"
+dnk,Readiness,modifier,×1.20,"Budget per soldier: proxy for training, maintenance & technology"
+bgd,Manpower,15%,95.5,"Active, reserve & paramilitary personnel"
+bgd,Ground forces,20%,51.9,"Tanks, armor & artillery weighted by type"
+bgd,Naval power,20%,42.2,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bgd,Air power,25%,45.1,Weighted by aircraft type and fleet age
+bgd,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bgd,Defense budget,10%,54.3,"Annual spending, purchasing-power adjusted"
+bgd,Readiness,modifier,×0.97,"Budget per soldier: proxy for training, maintenance & technology"
+chl,Manpower,15%,66.8,"Active, reserve & paramilitary personnel"
+chl,Ground forces,20%,53.6,"Tanks, armor & artillery weighted by type"
+chl,Naval power,20%,45.9,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+chl,Air power,25%,48.4,Weighted by aircraft type and fleet age
+chl,Nuclear deterrent,10%,0.0,No declared nuclear capability
+chl,Defense budget,10%,46.5,"Annual spending, purchasing-power adjusted"
+chl,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+irq,Manpower,15%,75.3,"Active, reserve & paramilitary personnel"
+irq,Ground forces,20%,70.1,"Tanks, armor & artillery weighted by type"
+irq,Naval power,20%,26.4,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+irq,Air power,25%,49.1,Weighted by aircraft type and fleet age
+irq,Nuclear deterrent,10%,0.0,No declared nuclear capability
+irq,Defense budget,10%,49.5,"Annual spending, purchasing-power adjusted"
+irq,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+rou,Manpower,15%,67.1,"Active, reserve & paramilitary personnel"
+rou,Ground forces,20%,59.1,"Tanks, armor & artillery weighted by type"
+rou,Naval power,20%,31.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+rou,Air power,25%,41.6,Weighted by aircraft type and fleet age
+rou,Nuclear deterrent,10%,0.0,No declared nuclear capability
+rou,Defense budget,10%,51.6,"Annual spending, purchasing-power adjusted"
+rou,Readiness,modifier,×1.08,"Budget per soldier: proxy for training, maintenance & technology"
+phl,Manpower,15%,74.1,"Active, reserve & paramilitary personnel"
+phl,Ground forces,20%,44.9,"Tanks, armor & artillery weighted by type"
+phl,Naval power,20%,46.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+phl,Air power,25%,42.3,Weighted by aircraft type and fleet age
+phl,Nuclear deterrent,10%,0.0,No declared nuclear capability
+phl,Defense budget,10%,50.6,"Annual spending, purchasing-power adjusted"
+phl,Readiness,modifier,×1.02,"Budget per soldier: proxy for training, maintenance & technology"
+aze,Manpower,15%,73.2,"Active, reserve & paramilitary personnel"
+aze,Ground forces,20%,66.5,"Tanks, armor & artillery weighted by type"
+aze,Naval power,20%,23.3,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+aze,Air power,25%,42.2,Weighted by aircraft type and fleet age
+aze,Nuclear deterrent,10%,0.0,No declared nuclear capability
+aze,Defense budget,10%,44.2,"Annual spending, purchasing-power adjusted"
+aze,Readiness,modifier,×1.03,"Budget per soldier: proxy for training, maintenance & technology"
+per,Manpower,15%,72.3,"Active, reserve & paramilitary personnel"
+per,Ground forces,20%,50.4,"Tanks, armor & artillery weighted by type"
+per,Naval power,20%,47.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+per,Air power,25%,42.2,Weighted by aircraft type and fleet age
+per,Nuclear deterrent,10%,0.0,No declared nuclear capability
+per,Defense budget,10%,40.0,"Annual spending, purchasing-power adjusted"
+per,Readiness,modifier,×0.98,"Budget per soldier: proxy for training, maintenance & technology"
+zaf,Manpower,15%,63.0,"Active, reserve & paramilitary personnel"
+zaf,Ground forces,20%,57.5,"Tanks, armor & artillery weighted by type"
+zaf,Naval power,20%,38.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+zaf,Air power,25%,42.4,Weighted by aircraft type and fleet age
+zaf,Nuclear deterrent,10%,0.0,No declared nuclear capability
+zaf,Defense budget,10%,41.6,"Annual spending, purchasing-power adjusted"
+zaf,Readiness,modifier,×1.01,"Budget per soldier: proxy for training, maintenance & technology"
+bel,Manpower,15%,55.0,"Active, reserve & paramilitary personnel"
+bel,Ground forces,20%,43.0,"Tanks, armor & artillery weighted by type"
+bel,Naval power,20%,20.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bel,Air power,25%,43.8,Weighted by aircraft type and fleet age
+bel,Nuclear deterrent,10%,2.5,No declared nuclear capability
+bel,Defense budget,10%,55.5,"Annual spending, purchasing-power adjusted"
+bel,Readiness,modifier,×1.18,"Budget per soldier: proxy for training, maintenance & technology"
+prt,Manpower,15%,59.0,"Active, reserve & paramilitary personnel"
+prt,Ground forces,20%,41.4,"Tanks, armor & artillery weighted by type"
+prt,Naval power,20%,35.3,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+prt,Air power,25%,39.2,Weighted by aircraft type and fleet age
+prt,Nuclear deterrent,10%,0.0,No declared nuclear capability
+prt,Defense budget,10%,48.6,"Annual spending, purchasing-power adjusted"
+prt,Readiness,modifier,×1.12,"Budget per soldier: proxy for training, maintenance & technology"
+mys,Manpower,15%,73.2,"Active, reserve & paramilitary personnel"
+mys,Ground forces,20%,49.1,"Tanks, armor & artillery weighted by type"
+mys,Naval power,20%,37.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mys,Air power,25%,40.9,Weighted by aircraft type and fleet age
+mys,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mys,Defense budget,10%,45.1,"Annual spending, purchasing-power adjusted"
+mys,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+arg,Manpower,15%,64.0,"Active, reserve & paramilitary personnel"
+arg,Ground forces,20%,52.6,"Tanks, armor & artillery weighted by type"
+arg,Naval power,20%,35.4,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+arg,Air power,25%,37.6,Weighted by aircraft type and fleet age
+arg,Nuclear deterrent,10%,0.0,No declared nuclear capability
+arg,Defense budget,10%,44.3,"Annual spending, purchasing-power adjusted"
+arg,Readiness,modifier,×1.02,"Budget per soldier: proxy for training, maintenance & technology"
+omn,Manpower,15%,58.5,"Active, reserve & paramilitary personnel"
+omn,Ground forces,20%,49.6,"Tanks, armor & artillery weighted by type"
+omn,Naval power,20%,23.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+omn,Air power,25%,40.6,Weighted by aircraft type and fleet age
+omn,Nuclear deterrent,10%,0.0,No declared nuclear capability
+omn,Defense budget,10%,48.8,"Annual spending, purchasing-power adjusted"
+omn,Readiness,modifier,×1.10,"Budget per soldier: proxy for training, maintenance & technology"
+che,Manpower,15%,67.4,"Active, reserve & paramilitary personnel"
+che,Ground forces,20%,52.4,"Tanks, armor & artillery weighted by type"
+che,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+che,Air power,25%,41.7,Weighted by aircraft type and fleet age
+che,Nuclear deterrent,10%,0.0,No declared nuclear capability
+che,Defense budget,10%,49.0,"Annual spending, purchasing-power adjusted"
+che,Readiness,modifier,×1.15,"Budget per soldier: proxy for training, maintenance & technology"
+ecu,Manpower,15%,65.8,"Active, reserve & paramilitary personnel"
+ecu,Ground forces,20%,43.0,"Tanks, armor & artillery weighted by type"
+ecu,Naval power,20%,34.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ecu,Air power,25%,38.2,Weighted by aircraft type and fleet age
+ecu,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ecu,Defense budget,10%,41.4,"Annual spending, purchasing-power adjusted"
+ecu,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+bhr,Manpower,15%,47.3,"Active, reserve & paramilitary personnel"
+bhr,Ground forces,20%,50.1,"Tanks, armor & artillery weighted by type"
+bhr,Naval power,20%,29.4,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bhr,Air power,25%,41.2,Weighted by aircraft type and fleet age
+bhr,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bhr,Defense budget,10%,36.0,"Annual spending, purchasing-power adjusted"
+bhr,Readiness,modifier,×1.10,"Budget per soldier: proxy for training, maintenance & technology"
+jor,Manpower,15%,68.8,"Active, reserve & paramilitary personnel"
+jor,Ground forces,20%,62.3,"Tanks, armor & artillery weighted by type"
+jor,Naval power,20%,14.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+jor,Air power,25%,47.7,Weighted by aircraft type and fleet age
+jor,Nuclear deterrent,10%,0.0,No declared nuclear capability
+jor,Defense budget,10%,40.3,"Annual spending, purchasing-power adjusted"
+jor,Readiness,modifier,×0.97,"Budget per soldier: proxy for training, maintenance & technology"
+blr,Manpower,15%,73.4,"Active, reserve & paramilitary personnel"
+blr,Ground forces,20%,62.0,"Tanks, armor & artillery weighted by type"
+blr,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+blr,Air power,25%,48.7,Weighted by aircraft type and fleet age
+blr,Nuclear deterrent,10%,4.3,No declared nuclear capability
+blr,Defense budget,10%,44.2,"Annual spending, purchasing-power adjusted"
+blr,Readiness,modifier,×0.99,"Budget per soldier: proxy for training, maintenance & technology"
+nga,Manpower,15%,70.7,"Active, reserve & paramilitary personnel"
+nga,Ground forces,20%,55.0,"Tanks, armor & artillery weighted by type"
+nga,Naval power,20%,36.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+nga,Air power,25%,39.1,Weighted by aircraft type and fleet age
+nga,Nuclear deterrent,10%,0.0,No declared nuclear capability
+nga,Defense budget,10%,43.4,"Annual spending, purchasing-power adjusted"
+nga,Readiness,modifier,×0.91,"Budget per soldier: proxy for training, maintenance & technology"
+bgr,Manpower,15%,57.4,"Active, reserve & paramilitary personnel"
+bgr,Ground forces,20%,49.9,"Tanks, armor & artillery weighted by type"
+bgr,Naval power,20%,31.3,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bgr,Air power,25%,35.9,Weighted by aircraft type and fleet age
+bgr,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bgr,Defense budget,10%,40.3,"Annual spending, purchasing-power adjusted"
+bgr,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+srb,Manpower,15%,60.4,"Active, reserve & paramilitary personnel"
+srb,Ground forces,20%,54.4,"Tanks, armor & artillery weighted by type"
+srb,Naval power,20%,14.4,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+srb,Air power,25%,38.9,Weighted by aircraft type and fleet age
+srb,Nuclear deterrent,10%,0.0,No declared nuclear capability
+srb,Defense budget,10%,39.8,"Annual spending, purchasing-power adjusted"
+srb,Readiness,modifier,×1.05,"Budget per soldier: proxy for training, maintenance & technology"
+hrv,Manpower,15%,53.8,"Active, reserve & paramilitary personnel"
+hrv,Ground forces,20%,44.7,"Tanks, armor & artillery weighted by type"
+hrv,Naval power,20%,30.9,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+hrv,Air power,25%,32.8,Weighted by aircraft type and fleet age
+hrv,Nuclear deterrent,10%,0.0,No declared nuclear capability
+hrv,Defense budget,10%,38.2,"Annual spending, purchasing-power adjusted"
+hrv,Readiness,modifier,×1.08,"Budget per soldier: proxy for training, maintenance & technology"
+lka,Manpower,15%,76.1,"Active, reserve & paramilitary personnel"
+lka,Ground forces,20%,45.3,"Tanks, armor & artillery weighted by type"
+lka,Naval power,20%,48.9,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+lka,Air power,25%,34.2,Weighted by aircraft type and fleet age
+lka,Nuclear deterrent,10%,0.0,No declared nuclear capability
+lka,Defense budget,10%,36.4,"Annual spending, purchasing-power adjusted"
+lka,Readiness,modifier,×0.87,"Budget per soldier: proxy for training, maintenance & technology"
+tun,Manpower,15%,57.6,"Active, reserve & paramilitary personnel"
+tun,Ground forces,20%,53.1,"Tanks, armor & artillery weighted by type"
+tun,Naval power,20%,24.8,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+tun,Air power,25%,36.7,Weighted by aircraft type and fleet age
+tun,Nuclear deterrent,10%,0.0,No declared nuclear capability
+tun,Defense budget,10%,35.3,"Annual spending, purchasing-power adjusted"
+tun,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+kaz,Manpower,15%,59.4,"Active, reserve & paramilitary personnel"
+kaz,Ground forces,20%,47.1,"Tanks, armor & artillery weighted by type"
+kaz,Naval power,20%,7.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+kaz,Air power,25%,45.8,Weighted by aircraft type and fleet age
+kaz,Nuclear deterrent,10%,0.0,No declared nuclear capability
+kaz,Defense budget,10%,41.1,"Annual spending, purchasing-power adjusted"
+kaz,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+uzb,Manpower,15%,60.4,"Active, reserve & paramilitary personnel"
+uzb,Ground forces,20%,60.6,"Tanks, armor & artillery weighted by type"
+uzb,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+uzb,Air power,25%,47.0,Weighted by aircraft type and fleet age
+uzb,Nuclear deterrent,10%,0.0,No declared nuclear capability
+uzb,Defense budget,10%,36.2,"Annual spending, purchasing-power adjusted"
+uzb,Readiness,modifier,×0.98,"Budget per soldier: proxy for training, maintenance & technology"
+ven,Manpower,15%,72.0,"Active, reserve & paramilitary personnel"
+ven,Ground forces,20%,50.7,"Tanks, armor & artillery weighted by type"
+ven,Naval power,20%,25.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ven,Air power,25%,45.7,Weighted by aircraft type and fleet age
+ven,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ven,Defense budget,10%,30.8,"Annual spending, purchasing-power adjusted"
+ven,Readiness,modifier,×0.87,"Budget per soldier: proxy for training, maintenance & technology"
+aut,Manpower,15%,64.4,"Active, reserve & paramilitary personnel"
+aut,Ground forces,20%,42.9,"Tanks, armor & artillery weighted by type"
+aut,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+aut,Air power,25%,35.3,Weighted by aircraft type and fleet age
+aut,Nuclear deterrent,10%,0.0,No declared nuclear capability
+aut,Defense budget,10%,47.2,"Annual spending, purchasing-power adjusted"
+aut,Readiness,modifier,×1.13,"Budget per soldier: proxy for training, maintenance & technology"
+hun,Manpower,15%,57.2,"Active, reserve & paramilitary personnel"
+hun,Ground forces,20%,48.3,"Tanks, armor & artillery weighted by type"
+hun,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+hun,Air power,25%,36.9,Weighted by aircraft type and fleet age
+hun,Nuclear deterrent,10%,0.0,No declared nuclear capability
+hun,Defense budget,10%,46.0,"Annual spending, purchasing-power adjusted"
+hun,Readiness,modifier,×1.10,"Budget per soldier: proxy for training, maintenance & technology"
+cze,Manpower,15%,52.5,"Active, reserve & paramilitary personnel"
+cze,Ground forces,20%,42.9,"Tanks, armor & artillery weighted by type"
+cze,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+cze,Air power,25%,36.3,Weighted by aircraft type and fleet age
+cze,Nuclear deterrent,10%,0.0,No declared nuclear capability
+cze,Defense budget,10%,49.5,"Annual spending, purchasing-power adjusted"
+cze,Readiness,modifier,×1.15,"Budget per soldier: proxy for training, maintenance & technology"
+syr,Manpower,15%,70.8,"Active, reserve & paramilitary personnel"
+syr,Ground forces,20%,38.7,"Tanks, armor & artillery weighted by type"
+syr,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+syr,Air power,25%,54.4,Weighted by aircraft type and fleet age
+syr,Nuclear deterrent,10%,0.0,No declared nuclear capability
+syr,Defense budget,10%,40.6,"Annual spending, purchasing-power adjusted"
+syr,Readiness,modifier,×0.94,"Budget per soldier: proxy for training, maintenance & technology"
+ken,Manpower,15%,53.9,"Active, reserve & paramilitary personnel"
+ken,Ground forces,20%,47.0,"Tanks, armor & artillery weighted by type"
+ken,Naval power,20%,12.6,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ken,Air power,25%,36.1,Weighted by aircraft type and fleet age
+ken,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ken,Defense budget,10%,35.5,"Annual spending, purchasing-power adjusted"
+ken,Readiness,modifier,×1.03,"Budget per soldier: proxy for training, maintenance & technology"
+sdn,Manpower,15%,67.8,"Active, reserve & paramilitary personnel"
+sdn,Ground forces,20%,68.6,"Tanks, armor & artillery weighted by type"
+sdn,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+sdn,Air power,25%,46.0,Weighted by aircraft type and fleet age
+sdn,Nuclear deterrent,10%,0.0,No declared nuclear capability
+sdn,Defense budget,10%,26.1,"Annual spending, purchasing-power adjusted"
+sdn,Readiness,modifier,×0.84,"Budget per soldier: proxy for training, maintenance & technology"
+eth,Manpower,15%,81.3,"Active, reserve & paramilitary personnel"
+eth,Ground forces,20%,67.1,"Tanks, armor & artillery weighted by type"
+eth,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+eth,Air power,25%,37.4,Weighted by aircraft type and fleet age
+eth,Nuclear deterrent,10%,0.0,No declared nuclear capability
+eth,Defense budget,10%,42.0,"Annual spending, purchasing-power adjusted"
+eth,Readiness,modifier,×0.80,"Budget per soldier: proxy for training, maintenance & technology"
+arm,Manpower,15%,69.7,"Active, reserve & paramilitary personnel"
+arm,Ground forces,20%,48.4,"Tanks, armor & artillery weighted by type"
+arm,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+arm,Air power,25%,33.8,Weighted by aircraft type and fleet age
+arm,Nuclear deterrent,10%,0.0,No declared nuclear capability
+arm,Defense budget,10%,36.1,"Annual spending, purchasing-power adjusted"
+arm,Readiness,modifier,×0.99,"Budget per soldier: proxy for training, maintenance & technology"
+tkm,Manpower,15%,57.3,"Active, reserve & paramilitary personnel"
+tkm,Ground forces,20%,63.1,"Tanks, armor & artillery weighted by type"
+tkm,Naval power,20%,23.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+tkm,Air power,25%,40.5,Weighted by aircraft type and fleet age
+tkm,Nuclear deterrent,10%,0.0,No declared nuclear capability
+tkm,Defense budget,10%,18.2,"Annual spending, purchasing-power adjusted"
+tkm,Readiness,modifier,×0.83,"Budget per soldier: proxy for training, maintenance & technology"
+lby,Manpower,15%,55.8,"Active, reserve & paramilitary personnel"
+lby,Ground forces,20%,38.4,"Tanks, armor & artillery weighted by type"
+lby,Naval power,20%,17.8,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+lby,Air power,25%,29.9,Weighted by aircraft type and fleet age
+lby,Nuclear deterrent,10%,0.0,No declared nuclear capability
+lby,Defense budget,10%,36.9,"Annual spending, purchasing-power adjusted"
+lby,Readiness,modifier,×1.02,"Budget per soldier: proxy for training, maintenance & technology"
+svk,Manpower,15%,49.9,"Active, reserve & paramilitary personnel"
+svk,Ground forces,20%,43.8,"Tanks, armor & artillery weighted by type"
+svk,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+svk,Air power,25%,30.2,Weighted by aircraft type and fleet age
+svk,Nuclear deterrent,10%,0.0,No declared nuclear capability
+svk,Defense budget,10%,41.7,"Annual spending, purchasing-power adjusted"
+svk,Readiness,modifier,×1.11,"Budget per soldier: proxy for training, maintenance & technology"
+cub,Manpower,15%,79.4,"Active, reserve & paramilitary personnel"
+cub,Ground forces,20%,67.4,"Tanks, armor & artillery weighted by type"
+cub,Naval power,20%,26.8,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+cub,Air power,25%,16.3,Weighted by aircraft type and fleet age
+cub,Nuclear deterrent,10%,0.0,No declared nuclear capability
+cub,Defense budget,10%,19.0,"Annual spending, purchasing-power adjusted"
+cub,Readiness,modifier,×0.82,"Budget per soldier: proxy for training, maintenance & technology"
+lbn,Manpower,15%,62.3,"Active, reserve & paramilitary personnel"
+lbn,Ground forces,20%,47.3,"Tanks, armor & artillery weighted by type"
+lbn,Naval power,20%,18.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+lbn,Air power,25%,24.1,Weighted by aircraft type and fleet age
+lbn,Nuclear deterrent,10%,0.0,No declared nuclear capability
+lbn,Defense budget,10%,31.9,"Annual spending, purchasing-power adjusted"
+lbn,Readiness,modifier,×0.93,"Budget per soldier: proxy for training, maintenance & technology"
+khm,Manpower,15%,69.3,"Active, reserve & paramilitary personnel"
+khm,Ground forces,20%,60.3,"Tanks, armor & artillery weighted by type"
+khm,Naval power,20%,15.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+khm,Air power,25%,20.5,Weighted by aircraft type and fleet age
+khm,Nuclear deterrent,10%,0.0,No declared nuclear capability
+khm,Defense budget,10%,30.6,"Annual spending, purchasing-power adjusted"
+khm,Readiness,modifier,×0.87,"Budget per soldier: proxy for training, maintenance & technology"
+tza,Manpower,15%,62.3,"Active, reserve & paramilitary personnel"
+tza,Ground forces,20%,44.0,"Tanks, armor & artillery weighted by type"
+tza,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+tza,Air power,25%,30.8,Weighted by aircraft type and fleet age
+tza,Nuclear deterrent,10%,0.0,No declared nuclear capability
+tza,Defense budget,10%,33.5,"Annual spending, purchasing-power adjusted"
+tza,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+uga,Manpower,15%,59.7,"Active, reserve & paramilitary personnel"
+uga,Ground forces,20%,48.0,"Tanks, armor & artillery weighted by type"
+uga,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+uga,Air power,25%,28.4,Weighted by aircraft type and fleet age
+uga,Nuclear deterrent,10%,0.0,No declared nuclear capability
+uga,Defense budget,10%,35.3,"Annual spending, purchasing-power adjusted"
+uga,Readiness,modifier,×0.98,"Budget per soldier: proxy for training, maintenance & technology"
+mng,Manpower,15%,63.9,"Active, reserve & paramilitary personnel"
+mng,Ground forces,20%,57.8,"Tanks, armor & artillery weighted by type"
+mng,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mng,Air power,25%,26.7,Weighted by aircraft type and fleet age
+mng,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mng,Defense budget,10%,20.6,"Annual spending, purchasing-power adjusted"
+mng,Readiness,modifier,×0.95,"Budget per soldier: proxy for training, maintenance & technology"
+cyp,Manpower,15%,58.7,"Active, reserve & paramilitary personnel"
+cyp,Ground forces,20%,48.7,"Tanks, armor & artillery weighted by type"
+cyp,Naval power,20%,9.2,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+cyp,Air power,25%,18.1,Weighted by aircraft type and fleet age
+cyp,Nuclear deterrent,10%,0.0,No declared nuclear capability
+cyp,Defense budget,10%,29.9,"Annual spending, purchasing-power adjusted"
+cyp,Readiness,modifier,×1.01,"Budget per soldier: proxy for training, maintenance & technology"
+ltu,Manpower,15%,57.6,"Active, reserve & paramilitary personnel"
+ltu,Ground forces,20%,45.8,"Tanks, armor & artillery weighted by type"
+ltu,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ltu,Air power,25%,14.7,Weighted by aircraft type and fleet age
+ltu,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ltu,Defense budget,10%,43.2,"Annual spending, purchasing-power adjusted"
+ltu,Readiness,modifier,×1.10,"Budget per soldier: proxy for training, maintenance & technology"
+geo,Manpower,15%,52.7,"Active, reserve & paramilitary personnel"
+geo,Ground forces,20%,47.9,"Tanks, armor & artillery weighted by type"
+geo,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+geo,Air power,25%,30.0,Weighted by aircraft type and fleet age
+geo,Nuclear deterrent,10%,0.0,No declared nuclear capability
+geo,Defense budget,10%,29.2,"Annual spending, purchasing-power adjusted"
+geo,Readiness,modifier,×0.98,"Budget per soldier: proxy for training, maintenance & technology"
+yem,Manpower,15%,57.7,"Active, reserve & paramilitary personnel"
+yem,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+yem,Naval power,20%,17.7,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+yem,Air power,25%,42.7,Weighted by aircraft type and fleet age
+yem,Nuclear deterrent,10%,0.0,No declared nuclear capability
+yem,Defense budget,10%,37.6,"Annual spending, purchasing-power adjusted"
+yem,Readiness,modifier,×1.01,"Budget per soldier: proxy for training, maintenance & technology"
+cod,Manpower,15%,68.6,"Active, reserve & paramilitary personnel"
+cod,Ground forces,20%,46.4,"Tanks, armor & artillery weighted by type"
+cod,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+cod,Air power,25%,27.7,Weighted by aircraft type and fleet age
+cod,Nuclear deterrent,10%,0.0,No declared nuclear capability
+cod,Defense budget,10%,32.1,"Annual spending, purchasing-power adjusted"
+cod,Readiness,modifier,×0.88,"Budget per soldier: proxy for training, maintenance & technology"
+tcd,Manpower,15%,57.0,"Active, reserve & paramilitary personnel"
+tcd,Ground forces,20%,45.0,"Tanks, armor & artillery weighted by type"
+tcd,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+tcd,Air power,25%,27.5,Weighted by aircraft type and fleet age
+tcd,Nuclear deterrent,10%,0.0,No declared nuclear capability
+tcd,Defense budget,10%,29.3,"Annual spending, purchasing-power adjusted"
+tcd,Readiness,modifier,×0.95,"Budget per soldier: proxy for training, maintenance & technology"
+bol,Manpower,15%,58.8,"Active, reserve & paramilitary personnel"
+bol,Ground forces,20%,40.4,"Tanks, armor & artillery weighted by type"
+bol,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bol,Air power,25%,28.1,Weighted by aircraft type and fleet age
+bol,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bol,Defense budget,10%,30.2,"Annual spending, purchasing-power adjusted"
+bol,Readiness,modifier,×0.95,"Budget per soldier: proxy for training, maintenance & technology"
+ury,Manpower,15%,52.4,"Active, reserve & paramilitary personnel"
+ury,Ground forces,20%,35.6,"Tanks, armor & artillery weighted by type"
+ury,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ury,Air power,25%,22.0,Weighted by aircraft type and fleet age
+ury,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ury,Defense budget,10%,37.5,"Annual spending, purchasing-power adjusted"
+ury,Readiness,modifier,×1.05,"Budget per soldier: proxy for training, maintenance & technology"
+eri,Manpower,15%,76.3,"Active, reserve & paramilitary personnel"
+eri,Ground forces,20%,48.3,"Tanks, armor & artillery weighted by type"
+eri,Naval power,20%,13.5,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+eri,Air power,25%,20.0,Weighted by aircraft type and fleet age
+eri,Nuclear deterrent,10%,0.0,No declared nuclear capability
+eri,Defense budget,10%,21.2,"Annual spending, purchasing-power adjusted"
+eri,Readiness,modifier,×0.80,"Budget per soldier: proxy for training, maintenance & technology"
+zmb,Manpower,15%,50.5,"Active, reserve & paramilitary personnel"
+zmb,Ground forces,20%,36.6,"Tanks, armor & artillery weighted by type"
+zmb,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+zmb,Air power,25%,34.2,Weighted by aircraft type and fleet age
+zmb,Nuclear deterrent,10%,0.0,No declared nuclear capability
+zmb,Defense budget,10%,25.2,"Annual spending, purchasing-power adjusted"
+zmb,Readiness,modifier,×0.96,"Budget per soldier: proxy for training, maintenance & technology"
+svn,Manpower,15%,44.1,"Active, reserve & paramilitary personnel"
+svn,Ground forces,20%,39.0,"Tanks, armor & artillery weighted by type"
+svn,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+svn,Air power,25%,18.1,Weighted by aircraft type and fleet age
+svn,Nuclear deterrent,10%,0.0,No declared nuclear capability
+svn,Defense budget,10%,36.3,"Annual spending, purchasing-power adjusted"
+svn,Readiness,modifier,×1.11,"Budget per soldier: proxy for training, maintenance & technology"
+mli,Manpower,15%,51.4,"Active, reserve & paramilitary personnel"
+mli,Ground forces,20%,26.6,"Tanks, armor & artillery weighted by type"
+mli,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mli,Air power,25%,27.1,Weighted by aircraft type and fleet age
+mli,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mli,Defense budget,10%,34.4,"Annual spending, purchasing-power adjusted"
+mli,Readiness,modifier,×1.06,"Budget per soldier: proxy for training, maintenance & technology"
+kgz,Manpower,15%,48.7,"Active, reserve & paramilitary personnel"
+kgz,Ground forces,20%,53.2,"Tanks, armor & artillery weighted by type"
+kgz,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+kgz,Air power,25%,10.9,Weighted by aircraft type and fleet age
+kgz,Nuclear deterrent,10%,0.0,No declared nuclear capability
+kgz,Defense budget,10%,28.5,"Annual spending, purchasing-power adjusted"
+kgz,Readiness,modifier,×1.02,"Budget per soldier: proxy for training, maintenance & technology"
+dom,Manpower,15%,61.4,"Active, reserve & paramilitary personnel"
+dom,Ground forces,20%,21.6,"Tanks, armor & artillery weighted by type"
+dom,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+dom,Air power,25%,31.2,Weighted by aircraft type and fleet age
+dom,Nuclear deterrent,10%,0.0,No declared nuclear capability
+dom,Defense budget,10%,33.3,"Annual spending, purchasing-power adjusted"
+dom,Readiness,modifier,×0.95,"Budget per soldier: proxy for training, maintenance & technology"
+ago,Manpower,15%,66.8,"Active, reserve & paramilitary personnel"
+ago,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+ago,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ago,Air power,25%,47.6,Weighted by aircraft type and fleet age
+ago,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ago,Defense budget,10%,33.4,"Annual spending, purchasing-power adjusted"
+ago,Readiness,modifier,×0.91,"Budget per soldier: proxy for training, maintenance & technology"
+alb,Manpower,15%,45.7,"Active, reserve & paramilitary personnel"
+alb,Ground forces,20%,39.0,"Tanks, armor & artillery weighted by type"
+alb,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+alb,Air power,25%,17.9,Weighted by aircraft type and fleet age
+alb,Nuclear deterrent,10%,0.0,No declared nuclear capability
+alb,Defense budget,10%,28.7,"Annual spending, purchasing-power adjusted"
+alb,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+nzl,Manpower,15%,46.6,"Active, reserve & paramilitary personnel"
+nzl,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+nzl,Naval power,20%,15.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+nzl,Air power,25%,23.1,Weighted by aircraft type and fleet age
+nzl,Nuclear deterrent,10%,0.0,No declared nuclear capability
+nzl,Defense budget,10%,42.5,"Annual spending, purchasing-power adjusted"
+nzl,Readiness,modifier,×1.15,"Budget per soldier: proxy for training, maintenance & technology"
+moz,Manpower,15%,47.0,"Active, reserve & paramilitary personnel"
+moz,Ground forces,20%,35.3,"Tanks, armor & artillery weighted by type"
+moz,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+moz,Air power,25%,21.0,Weighted by aircraft type and fleet age
+moz,Nuclear deterrent,10%,0.0,No declared nuclear capability
+moz,Defense budget,10%,27.5,"Annual spending, purchasing-power adjusted"
+moz,Readiness,modifier,×1.01,"Budget per soldier: proxy for training, maintenance & technology"
+zwe,Manpower,15%,56.7,"Active, reserve & paramilitary personnel"
+zwe,Ground forces,20%,29.7,"Tanks, armor & artillery weighted by type"
+zwe,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+zwe,Air power,25%,33.3,Weighted by aircraft type and fleet age
+zwe,Nuclear deterrent,10%,0.0,No declared nuclear capability
+zwe,Defense budget,10%,20.6,"Annual spending, purchasing-power adjusted"
+zwe,Readiness,modifier,×0.87,"Budget per soldier: proxy for training, maintenance & technology"
+nam,Manpower,15%,47.4,"Active, reserve & paramilitary personnel"
+nam,Ground forces,20%,20.1,"Tanks, armor & artillery weighted by type"
+nam,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+nam,Air power,25%,31.5,Weighted by aircraft type and fleet age
+nam,Nuclear deterrent,10%,0.0,No declared nuclear capability
+nam,Defense budget,10%,26.1,"Annual spending, purchasing-power adjusted"
+nam,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+tjk,Manpower,15%,52.2,"Active, reserve & paramilitary personnel"
+tjk,Ground forces,20%,37.3,"Tanks, armor & artillery weighted by type"
+tjk,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+tjk,Air power,25%,17.3,Weighted by aircraft type and fleet age
+tjk,Nuclear deterrent,10%,0.0,No declared nuclear capability
+tjk,Defense budget,10%,23.5,"Annual spending, purchasing-power adjusted"
+tjk,Readiness,modifier,×0.98,"Budget per soldier: proxy for training, maintenance & technology"
+lao,Manpower,15%,61.2,"Active, reserve & paramilitary personnel"
+lao,Ground forces,20%,50.4,"Tanks, armor & artillery weighted by type"
+lao,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+lao,Air power,25%,25.7,Weighted by aircraft type and fleet age
+lao,Nuclear deterrent,10%,0.0,No declared nuclear capability
+lao,Defense budget,10%,9.6,"Annual spending, purchasing-power adjusted"
+lao,Readiness,modifier,×0.80,"Budget per soldier: proxy for training, maintenance & technology"
+gtm,Manpower,15%,60.9,"Active, reserve & paramilitary personnel"
+gtm,Ground forces,20%,21.6,"Tanks, armor & artillery weighted by type"
+gtm,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+gtm,Air power,25%,22.4,Weighted by aircraft type and fleet age
+gtm,Nuclear deterrent,10%,0.0,No declared nuclear capability
+gtm,Defense budget,10%,27.4,"Annual spending, purchasing-power adjusted"
+gtm,Readiness,modifier,×0.97,"Budget per soldier: proxy for training, maintenance & technology"
+afg,Manpower,15%,70.8,"Active, reserve & paramilitary personnel"
+afg,Ground forces,20%,35.3,"Tanks, armor & artillery weighted by type"
+afg,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+afg,Air power,25%,21.0,Weighted by aircraft type and fleet age
+afg,Nuclear deterrent,10%,0.0,No declared nuclear capability
+afg,Defense budget,10%,24.0,"Annual spending, purchasing-power adjusted"
+afg,Readiness,modifier,×0.80,"Budget per soldier: proxy for training, maintenance & technology"
+bih,Manpower,15%,50.9,"Active, reserve & paramilitary personnel"
+bih,Ground forces,20%,38.8,"Tanks, armor & artillery weighted by type"
+bih,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bih,Air power,25%,14.7,Weighted by aircraft type and fleet age
+bih,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bih,Defense budget,10%,22.9,"Annual spending, purchasing-power adjusted"
+bih,Readiness,modifier,×0.97,"Budget per soldier: proxy for training, maintenance & technology"
+irl,Manpower,15%,47.3,"Active, reserve & paramilitary personnel"
+irl,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+irl,Naval power,20%,17.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+irl,Air power,25%,21.0,Weighted by aircraft type and fleet age
+irl,Nuclear deterrent,10%,0.0,No declared nuclear capability
+irl,Defense budget,10%,34.9,"Annual spending, purchasing-power adjusted"
+irl,Readiness,modifier,×1.08,"Budget per soldier: proxy for training, maintenance & technology"
+ssd,Manpower,15%,71.6,"Active, reserve & paramilitary personnel"
+ssd,Ground forces,20%,35.3,"Tanks, armor & artillery weighted by type"
+ssd,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ssd,Air power,25%,17.4,Weighted by aircraft type and fleet age
+ssd,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ssd,Defense budget,10%,23.0,"Annual spending, purchasing-power adjusted"
+ssd,Readiness,modifier,×0.80,"Budget per soldier: proxy for training, maintenance & technology"
+mkd,Manpower,15%,47.5,"Active, reserve & paramilitary personnel"
+mkd,Ground forces,20%,32.0,"Tanks, armor & artillery weighted by type"
+mkd,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mkd,Air power,25%,14.7,Weighted by aircraft type and fleet age
+mkd,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mkd,Defense budget,10%,25.4,"Annual spending, purchasing-power adjusted"
+mkd,Readiness,modifier,×1.01,"Budget per soldier: proxy for training, maintenance & technology"
+slv,Manpower,15%,56.4,"Active, reserve & paramilitary personnel"
+slv,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+slv,Naval power,20%,17.1,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+slv,Air power,25%,24.8,Weighted by aircraft type and fleet age
+slv,Nuclear deterrent,10%,0.0,No declared nuclear capability
+slv,Defense budget,10%,27.0,"Annual spending, purchasing-power adjusted"
+slv,Readiness,modifier,×0.95,"Budget per soldier: proxy for training, maintenance & technology"
+cog,Manpower,15%,46.6,"Active, reserve & paramilitary personnel"
+cog,Ground forces,20%,35.3,"Tanks, armor & artillery weighted by type"
+cog,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+cog,Air power,25%,16.6,Weighted by aircraft type and fleet age
+cog,Nuclear deterrent,10%,0.0,No declared nuclear capability
+cog,Defense budget,10%,21.4,"Annual spending, purchasing-power adjusted"
+cog,Readiness,modifier,×0.95,"Budget per soldier: proxy for training, maintenance & technology"
+mrt,Manpower,15%,50.6,"Active, reserve & paramilitary personnel"
+mrt,Ground forces,20%,33.8,"Tanks, armor & artillery weighted by type"
+mrt,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mrt,Air power,25%,15.0,Weighted by aircraft type and fleet age
+mrt,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mrt,Defense budget,10%,23.6,"Annual spending, purchasing-power adjusted"
+mrt,Readiness,modifier,×0.94,"Budget per soldier: proxy for training, maintenance & technology"
+hnd,Manpower,15%,59.2,"Active, reserve & paramilitary personnel"
+hnd,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+hnd,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+hnd,Air power,25%,30.5,Weighted by aircraft type and fleet age
+hnd,Nuclear deterrent,10%,0.0,No declared nuclear capability
+hnd,Defense budget,10%,28.9,"Annual spending, purchasing-power adjusted"
+hnd,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+nic,Manpower,15%,47.6,"Active, reserve & paramilitary personnel"
+nic,Ground forces,20%,44.9,"Tanks, armor & artillery weighted by type"
+nic,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+nic,Air power,25%,14.1,Weighted by aircraft type and fleet age
+nic,Nuclear deterrent,10%,0.0,No declared nuclear capability
+nic,Defense budget,10%,17.4,"Annual spending, purchasing-power adjusted"
+nic,Readiness,modifier,×0.90,"Budget per soldier: proxy for training, maintenance & technology"
+rwa,Manpower,15%,56.2,"Active, reserve & paramilitary personnel"
+rwa,Ground forces,20%,33.5,"Tanks, armor & artillery weighted by type"
+rwa,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+rwa,Air power,25%,18.1,Weighted by aircraft type and fleet age
+rwa,Nuclear deterrent,10%,0.0,No declared nuclear capability
+rwa,Defense budget,10%,21.3,"Annual spending, purchasing-power adjusted"
+rwa,Readiness,modifier,×0.87,"Budget per soldier: proxy for training, maintenance & technology"
+civ,Manpower,15%,54.5,"Active, reserve & paramilitary personnel"
+civ,Ground forces,20%,21.6,"Tanks, armor & artillery weighted by type"
+civ,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+civ,Air power,25%,15.4,Weighted by aircraft type and fleet age
+civ,Nuclear deterrent,10%,0.0,No declared nuclear capability
+civ,Defense budget,10%,30.6,"Annual spending, purchasing-power adjusted"
+civ,Readiness,modifier,×0.97,"Budget per soldier: proxy for training, maintenance & technology"
+tgo,Manpower,15%,45.7,"Active, reserve & paramilitary personnel"
+tgo,Ground forces,20%,20.1,"Tanks, armor & artillery weighted by type"
+tgo,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+tgo,Air power,25%,20.7,Weighted by aircraft type and fleet age
+tgo,Nuclear deterrent,10%,0.0,No declared nuclear capability
+tgo,Defense budget,10%,22.9,"Annual spending, purchasing-power adjusted"
+tgo,Readiness,modifier,×0.98,"Budget per soldier: proxy for training, maintenance & technology"
+gin,Manpower,15%,46.2,"Active, reserve & paramilitary personnel"
+gin,Ground forces,20%,24.9,"Tanks, armor & artillery weighted by type"
+gin,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+gin,Air power,25%,10.6,Weighted by aircraft type and fleet age
+gin,Nuclear deterrent,10%,0.0,No declared nuclear capability
+gin,Defense budget,10%,28.5,"Annual spending, purchasing-power adjusted"
+gin,Readiness,modifier,×1.03,"Budget per soldier: proxy for training, maintenance & technology"
+bfa,Manpower,15%,48.0,"Active, reserve & paramilitary personnel"
+bfa,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+bfa,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bfa,Air power,25%,24.3,Weighted by aircraft type and fleet age
+bfa,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bfa,Defense budget,10%,33.6,"Annual spending, purchasing-power adjusted"
+bfa,Readiness,modifier,×1.06,"Budget per soldier: proxy for training, maintenance & technology"
+pry,Manpower,15%,66.0,"Active, reserve & paramilitary personnel"
+pry,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+pry,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+pry,Air power,25%,21.5,Weighted by aircraft type and fleet age
+pry,Nuclear deterrent,10%,0.0,No declared nuclear capability
+pry,Defense budget,10%,25.7,"Annual spending, purchasing-power adjusted"
+pry,Readiness,modifier,×0.97,"Budget per soldier: proxy for training, maintenance & technology"
+est,Manpower,15%,56.1,"Active, reserve & paramilitary personnel"
+est,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+est,Naval power,20%,10.3,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+est,Air power,25%,6.4,Weighted by aircraft type and fleet age
+est,Nuclear deterrent,10%,0.0,No declared nuclear capability
+est,Defense budget,10%,36.3,"Annual spending, purchasing-power adjusted"
+est,Readiness,modifier,×1.12,"Budget per soldier: proxy for training, maintenance & technology"
+bwa,Manpower,15%,45.3,"Active, reserve & paramilitary personnel"
+bwa,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+bwa,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bwa,Air power,25%,27.5,Weighted by aircraft type and fleet age
+bwa,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bwa,Defense budget,10%,29.2,"Annual spending, purchasing-power adjusted"
+bwa,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+cmr,Manpower,15%,54.7,"Active, reserve & paramilitary personnel"
+cmr,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+cmr,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+cmr,Air power,25%,25.4,Weighted by aircraft type and fleet age
+cmr,Nuclear deterrent,10%,0.0,No declared nuclear capability
+cmr,Defense budget,10%,28.6,"Annual spending, purchasing-power adjusted"
+cmr,Readiness,modifier,×0.96,"Budget per soldier: proxy for training, maintenance & technology"
+gnq,Manpower,15%,35.2,"Active, reserve & paramilitary personnel"
+gnq,Ground forces,20%,18.2,"Tanks, armor & artillery weighted by type"
+gnq,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+gnq,Air power,25%,22.7,Weighted by aircraft type and fleet age
+gnq,Nuclear deterrent,10%,0.0,No declared nuclear capability
+gnq,Defense budget,10%,19.0,"Annual spending, purchasing-power adjusted"
+gnq,Readiness,modifier,×1.02,"Budget per soldier: proxy for training, maintenance & technology"
+bdi,Manpower,15%,56.9,"Active, reserve & paramilitary personnel"
+bdi,Ground forces,20%,26.6,"Tanks, armor & artillery weighted by type"
+bdi,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bdi,Air power,25%,13.9,Weighted by aircraft type and fleet age
+bdi,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bdi,Defense budget,10%,17.9,"Annual spending, purchasing-power adjusted"
+bdi,Readiness,modifier,×0.84,"Budget per soldier: proxy for training, maintenance & technology"
+pan,Manpower,15%,44.1,"Active, reserve & paramilitary personnel"
+pan,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+pan,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+pan,Air power,25%,22.8,Weighted by aircraft type and fleet age
+pan,Nuclear deterrent,10%,0.0,No declared nuclear capability
+pan,Defense budget,10%,32.9,"Annual spending, purchasing-power adjusted"
+pan,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+sen,Manpower,15%,49.5,"Active, reserve & paramilitary personnel"
+sen,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+sen,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+sen,Air power,25%,21.3,Weighted by aircraft type and fleet age
+sen,Nuclear deterrent,10%,0.0,No declared nuclear capability
+sen,Defense budget,10%,28.5,"Annual spending, purchasing-power adjusted"
+sen,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+npl,Manpower,15%,66.0,"Active, reserve & paramilitary personnel"
+npl,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+npl,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+npl,Air power,25%,19.8,Weighted by aircraft type and fleet age
+npl,Nuclear deterrent,10%,0.0,No declared nuclear capability
+npl,Defense budget,10%,27.0,"Annual spending, purchasing-power adjusted"
+npl,Readiness,modifier,×0.85,"Budget per soldier: proxy for training, maintenance & technology"
+gha,Manpower,15%,49.7,"Active, reserve & paramilitary personnel"
+gha,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+gha,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+gha,Air power,25%,23.5,Weighted by aircraft type and fleet age
+gha,Nuclear deterrent,10%,0.0,No declared nuclear capability
+gha,Defense budget,10%,25.2,"Annual spending, purchasing-power adjusted"
+gha,Readiness,modifier,×0.96,"Budget per soldier: proxy for training, maintenance & technology"
+gab,Manpower,15%,41.1,"Active, reserve & paramilitary personnel"
+gab,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+gab,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+gab,Air power,25%,23.7,Weighted by aircraft type and fleet age
+gab,Nuclear deterrent,10%,0.0,No declared nuclear capability
+gab,Defense budget,10%,24.8,"Annual spending, purchasing-power adjusted"
+gab,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+brn,Manpower,15%,44.0,"Active, reserve & paramilitary personnel"
+brn,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+brn,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+brn,Air power,25%,19.9,Weighted by aircraft type and fleet age
+brn,Nuclear deterrent,10%,0.0,No declared nuclear capability
+brn,Defense budget,10%,29.0,"Annual spending, purchasing-power adjusted"
+brn,Readiness,modifier,×1.05,"Budget per soldier: proxy for training, maintenance & technology"
+ner,Manpower,15%,43.9,"Active, reserve & paramilitary personnel"
+ner,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+ner,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ner,Air power,25%,19.9,Weighted by aircraft type and fleet age
+ner,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ner,Defense budget,10%,27.2,"Annual spending, purchasing-power adjusted"
+ner,Readiness,modifier,×1.05,"Budget per soldier: proxy for training, maintenance & technology"
+lva,Manpower,15%,48.9,"Active, reserve & paramilitary personnel"
+lva,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+lva,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+lva,Air power,25%,9.4,Weighted by aircraft type and fleet age
+lva,Nuclear deterrent,10%,0.0,No declared nuclear capability
+lva,Defense budget,10%,37.1,"Annual spending, purchasing-power adjusted"
+lva,Readiness,modifier,×1.13,"Budget per soldier: proxy for training, maintenance & technology"
+mdg,Manpower,15%,49.9,"Active, reserve & paramilitary personnel"
+mdg,Ground forces,20%,22.9,"Tanks, armor & artillery weighted by type"
+mdg,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mdg,Air power,25%,8.3,Weighted by aircraft type and fleet age
+mdg,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mdg,Defense budget,10%,18.7,"Annual spending, purchasing-power adjusted"
+mdg,Readiness,modifier,×0.90,"Budget per soldier: proxy for training, maintenance & technology"
+jam,Manpower,15%,41.1,"Active, reserve & paramilitary personnel"
+jam,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+jam,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+jam,Air power,25%,21.3,Weighted by aircraft type and fleet age
+jam,Nuclear deterrent,10%,0.0,No declared nuclear capability
+jam,Defense budget,10%,24.7,"Annual spending, purchasing-power adjusted"
+jam,Readiness,modifier,×1.05,"Budget per soldier: proxy for training, maintenance & technology"
+dji,Manpower,15%,46.9,"Active, reserve & paramilitary personnel"
+dji,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+dji,Naval power,20%,16.8,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+dji,Air power,25%,17.0,Weighted by aircraft type and fleet age
+dji,Nuclear deterrent,10%,0.0,No declared nuclear capability
+dji,Defense budget,10%,11.8,"Annual spending, purchasing-power adjusted"
+dji,Readiness,modifier,×0.84,"Budget per soldier: proxy for training, maintenance & technology"
+caf,Manpower,15%,47.3,"Active, reserve & paramilitary personnel"
+caf,Ground forces,20%,20.1,"Tanks, armor & artillery weighted by type"
+caf,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+caf,Air power,25%,3.2,Weighted by aircraft type and fleet age
+caf,Nuclear deterrent,10%,0.0,No declared nuclear capability
+caf,Defense budget,10%,15.3,"Annual spending, purchasing-power adjusted"
+caf,Readiness,modifier,×0.89,"Budget per soldier: proxy for training, maintenance & technology"
+mne,Manpower,15%,39.1,"Active, reserve & paramilitary personnel"
+mne,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+mne,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mne,Air power,25%,14.4,Weighted by aircraft type and fleet age
+mne,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mne,Defense budget,10%,20.6,"Annual spending, purchasing-power adjusted"
+mne,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+ben,Manpower,15%,45.0,"Active, reserve & paramilitary personnel"
+ben,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+ben,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+ben,Air power,25%,14.2,Weighted by aircraft type and fleet age
+ben,Nuclear deterrent,10%,0.0,No declared nuclear capability
+ben,Defense budget,10%,20.0,"Annual spending, purchasing-power adjusted"
+ben,Readiness,modifier,×0.96,"Budget per soldier: proxy for training, maintenance & technology"
+mda,Manpower,15%,56.5,"Active, reserve & paramilitary personnel"
+mda,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+mda,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mda,Air power,25%,6.6,Weighted by aircraft type and fleet age
+mda,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mda,Defense budget,10%,18.0,"Annual spending, purchasing-power adjusted"
+mda,Readiness,modifier,×0.96,"Budget per soldier: proxy for training, maintenance & technology"
+tto,Manpower,15%,39.1,"Active, reserve & paramilitary personnel"
+tto,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+tto,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+tto,Air power,25%,12.2,Weighted by aircraft type and fleet age
+tto,Nuclear deterrent,10%,0.0,No declared nuclear capability
+tto,Defense budget,10%,22.8,"Annual spending, purchasing-power adjusted"
+tto,Readiness,modifier,×1.03,"Budget per soldier: proxy for training, maintenance & technology"
+guy,Manpower,15%,38.5,"Active, reserve & paramilitary personnel"
+guy,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+guy,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+guy,Air power,25%,12.0,Weighted by aircraft type and fleet age
+guy,Nuclear deterrent,10%,0.0,No declared nuclear capability
+guy,Defense budget,10%,22.5,"Annual spending, purchasing-power adjusted"
+guy,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+mwi,Manpower,15%,47.6,"Active, reserve & paramilitary personnel"
+mwi,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+mwi,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mwi,Air power,25%,13.8,Weighted by aircraft type and fleet age
+mwi,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mwi,Defense budget,10%,16.9,"Annual spending, purchasing-power adjusted"
+mwi,Readiness,modifier,×0.90,"Budget per soldier: proxy for training, maintenance & technology"
+lux,Manpower,15%,29.6,"Active, reserve & paramilitary personnel"
+lux,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+lux,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+lux,Air power,25%,3.6,Weighted by aircraft type and fleet age
+lux,Nuclear deterrent,10%,0.0,No declared nuclear capability
+lux,Defense budget,10%,38.3,"Annual spending, purchasing-power adjusted"
+lux,Readiness,modifier,×1.20,"Budget per soldier: proxy for training, maintenance & technology"
+mlt,Manpower,15%,34.2,"Active, reserve & paramilitary personnel"
+mlt,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+mlt,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mlt,Air power,25%,10.7,Weighted by aircraft type and fleet age
+mlt,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mlt,Defense budget,10%,18.8,"Annual spending, purchasing-power adjusted"
+mlt,Readiness,modifier,×1.04,"Budget per soldier: proxy for training, maintenance & technology"
+png,Manpower,15%,38.2,"Active, reserve & paramilitary personnel"
+png,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+png,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+png,Air power,25%,7.3,Weighted by aircraft type and fleet age
+png,Nuclear deterrent,10%,0.0,No declared nuclear capability
+png,Defense budget,10%,17.2,"Annual spending, purchasing-power adjusted"
+png,Readiness,modifier,×0.98,"Budget per soldier: proxy for training, maintenance & technology"
+lso,Manpower,15%,33.9,"Active, reserve & paramilitary personnel"
+lso,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+lso,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+lso,Air power,25%,12.6,Weighted by aircraft type and fleet age
+lso,Nuclear deterrent,10%,0.0,No declared nuclear capability
+lso,Defense budget,10%,11.5,"Annual spending, purchasing-power adjusted"
+lso,Readiness,modifier,×0.95,"Budget per soldier: proxy for training, maintenance & technology"
+bhs,Manpower,15%,30.9,"Active, reserve & paramilitary personnel"
+bhs,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+bhs,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+bhs,Air power,25%,3.7,Weighted by aircraft type and fleet age
+bhs,Nuclear deterrent,10%,0.0,No declared nuclear capability
+bhs,Defense budget,10%,18.1,"Annual spending, purchasing-power adjusted"
+bhs,Readiness,modifier,×1.06,"Budget per soldier: proxy for training, maintenance & technology"
+sle,Manpower,15%,44.8,"Active, reserve & paramilitary personnel"
+sle,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+sle,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+sle,Air power,25%,2.8,Weighted by aircraft type and fleet age
+sle,Nuclear deterrent,10%,0.0,No declared nuclear capability
+sle,Defense budget,10%,11.6,"Annual spending, purchasing-power adjusted"
+sle,Readiness,modifier,×0.85,"Budget per soldier: proxy for training, maintenance & technology"
+blz,Manpower,15%,34.2,"Active, reserve & paramilitary personnel"
+blz,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+blz,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+blz,Air power,25%,4.9,Weighted by aircraft type and fleet age
+blz,Nuclear deterrent,10%,0.0,No declared nuclear capability
+blz,Defense budget,10%,11.2,"Annual spending, purchasing-power adjusted"
+blz,Readiness,modifier,×0.96,"Budget per soldier: proxy for training, maintenance & technology"
+gmb,Manpower,15%,27.6,"Active, reserve & paramilitary personnel"
+gmb,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+gmb,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+gmb,Air power,25%,7.9,Weighted by aircraft type and fleet age
+gmb,Nuclear deterrent,10%,0.0,No declared nuclear capability
+gmb,Defense budget,10%,7.6,"Annual spending, purchasing-power adjusted"
+gmb,Readiness,modifier,×0.95,"Budget per soldier: proxy for training, maintenance & technology"
+syc,Manpower,15%,23.5,"Active, reserve & paramilitary personnel"
+syc,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+syc,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+syc,Air power,25%,6.5,Weighted by aircraft type and fleet age
+syc,Nuclear deterrent,10%,0.0,No declared nuclear capability
+syc,Defense budget,10%,11.3,"Annual spending, purchasing-power adjusted"
+syc,Readiness,modifier,×1.05,"Budget per soldier: proxy for training, maintenance & technology"
+sur,Manpower,15%,33.3,"Active, reserve & paramilitary personnel"
+sur,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+sur,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+sur,Air power,25%,5.2,Weighted by aircraft type and fleet age
+sur,Nuclear deterrent,10%,0.0,No declared nuclear capability
+sur,Defense budget,10%,0.0,Data unavailable
+sur,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+atg,Manpower,15%,21.0,"Active, reserve & paramilitary personnel"
+atg,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+atg,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+atg,Air power,25%,2.7,Weighted by aircraft type and fleet age
+atg,Nuclear deterrent,10%,0.0,No declared nuclear capability
+atg,Defense budget,10%,0.0,Data unavailable
+atg,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+swz,Manpower,15%,0.0,"Active, reserve & paramilitary personnel"
+swz,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+swz,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+swz,Air power,25%,7.4,Weighted by aircraft type and fleet age
+swz,Nuclear deterrent,10%,0.0,No declared nuclear capability
+swz,Defense budget,10%,15.2,"Annual spending, purchasing-power adjusted"
+swz,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+mdv,Manpower,15%,0.0,"Active, reserve & paramilitary personnel"
+mdv,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+mdv,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+mdv,Air power,25%,9.3,Weighted by aircraft type and fleet age
+mdv,Nuclear deterrent,10%,0.0,No declared nuclear capability
+mdv,Defense budget,10%,0.0,Data unavailable
+mdv,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
+btn,Manpower,15%,0.0,"Active, reserve & paramilitary personnel"
+btn,Ground forces,20%,0.0,"Tanks, armor & artillery weighted by type"
+btn,Naval power,20%,0.0,"Weighted by hull type: carrier tiers, nuclear vs conventional submarines"
+btn,Air power,25%,4.0,Weighted by aircraft type and fleet age
+btn,Nuclear deterrent,10%,0.0,No declared nuclear capability
+btn,Defense budget,10%,0.0,Data unavailable
+btn,Readiness,modifier,×1.00,"Budget per soldier: proxy for training, maintenance & technology"
